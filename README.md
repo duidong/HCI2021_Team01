@@ -77,7 +77,7 @@ Leap Motion을 통해 3차원 공간에서 자신의 손을 이용하는 흥미�
 
 * Poster
 
-![HCI_poster](./image/HCI_poster.jpg)
+![HCI_poster](./image/HCI_poster.png)
 
 * src code
 
