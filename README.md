@@ -1,5 +1,5 @@
 # Draw Your Own Mask! (Leapmotion, Unity) 
-<img width="654" alt="0" src="https://user-images.githubusercontent.com/48082551/120884763-1b0caa00-c620-11eb-9979-cff4cad1ec6c.png">
+![0](/image/0.png)
 
 
 ## Members
@@ -19,7 +19,7 @@ Leap Motion을 통해 3차원 공간에서 자신의 손을 이용하는 흥미�
 
 ## Main Contents 
 **Hand Interaction**  
-    <img width="571" alt="1" src="https://user-images.githubusercontent.com/48082551/120884773-2c55b680-c620-11eb-9496-2ba290384c60.png">
+![1](/image/1.png)   
     
     
     립모션의 모션인식 기능 중에 pinch, spread palm, finger touch를 주로 사용합니다. 
@@ -32,13 +32,13 @@ Leap Motion을 통해 3차원 공간에서 자신의 손을 이용하는 흥미�
 **Scene Interaction**
 
 * Home Scene   
-![2](https://user-images.githubusercontent.com/48082551/120884778-324b9780-c620-11eb-87ec-4c9cdcd4c9c0.png)
+![2](/image/2.png)   
 
     간략한 프로그램의 설명이 적혀 있는 main scene입니다.
     (start 버튼 -> drawing scene으로 이동) 
 
 * Drawing Scene   
-![3](https://user-images.githubusercontent.com/48082551/120884781-37a8e200-c620-11eb-8cc7-78a30b81d7b9.png)
+![3](/image/3.png)   
 
     나만의 마스크를 디자인하는 drawing scene입니다.
 
@@ -49,18 +49,18 @@ Leap Motion을 통해 3차원 공간에서 자신의 손을 이용하는 흥미�
     print -> 프린트 할지 묻는 팝업창 -> 퀴즈)  
 
 * Gallery Scene   
-![4](https://user-images.githubusercontent.com/48082551/120884789-3f688680-c620-11eb-886c-d5826ac84d61.png)
+![4](/image/4.png)   
 
     디자인 한 마스크가 저장되어 갤러리처럼 볼 수 있는 gallery scene입니다.
     (home 버튼 -> home scene) 
 
 * Quiz Scene   
-![5](https://user-images.githubusercontent.com/48082551/120884793-442d3a80-c620-11eb-9273-b68e00d2d785.png)
+![5](/image/5.png)   
 
     디자인 한 마스크를 프린트하기 전에 퀴즈를 풀 게 하는 quiz scene입니다.      
    
 **Button Interaction**
-![6](https://user-images.githubusercontent.com/48082551/120884805-4b544880-c620-11eb-8f91-c8323c95e992.png)
+![6](/image/6.png)   
 
     앞서 설명한 scene interaction과 관련해서 button과 scene의 관계를 그림으로 나타냈습니다.
 
@@ -77,7 +77,7 @@ Leap Motion을 통해 3차원 공간에서 자신의 손을 이용하는 흥미�
 
 * Poster
 
-    ![HCI_page-0001](https://user-images.githubusercontent.com/48082551/120884909-e9e0a980-c620-11eb-9e89-2430b7c96154.jpg)
+![HCI_poster](./image/HCI_poster.jpg)
 
 * src code
 
