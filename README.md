@@ -17,7 +17,7 @@ Leap Motion을 통해 3차원 공간에서 자신의 손을 이용하는 흥미�
 사회적 문제들에 대해 사람들이 쉽게 접근할 수 있도록 진입 장벽을 낮춘다
 직접 참여할 수 있는 캠페인을 만든다
 
-## Main Contents (2명)
+## Main Contents
 1. Hand Interaction   
 <img width="571" alt="1" src="https://user-images.githubusercontent.com/48082551/120884773-2c55b680-c620-11eb-9496-2ba290384c60.png">
 
@@ -30,12 +30,14 @@ Leap Motion을 통해 3차원 공간에서 자신의 손을 이용하는 흥미�
 
 * Home Scene   
 ![2](https://user-images.githubusercontent.com/48082551/120884778-324b9780-c620-11eb-87ec-4c9cdcd4c9c0.png)
+
 간략한 프로그램의 설명이 적혀 있는 main scene입니다.
  (start 버튼 -> drawing scene으로 이동) 
 
 
 * Drawing Scene   
 ![3](https://user-images.githubusercontent.com/48082551/120884781-37a8e200-c620-11eb-8cc7-78a30b81d7b9.png)
+
 나만의 마스크를 디자인하는 drawing scene입니다.
 (home 버튼 -> home scene으로 이동
  gallery 버튼 -> gallery scene으로 이동 
@@ -45,6 +47,7 @@ print -> 프린트 할지 묻는 팝업창 -> 퀴즈)
 
 * Gallery Scene   
 ![4](https://user-images.githubusercontent.com/48082551/120884789-3f688680-c620-11eb-886c-d5826ac84d61.png)
+
 디자인 한 마스크가 저장되어 갤러리처럼 볼 수 있는 gallery scene입니다.
 (home 버튼 -> home scene) 
 
@@ -55,6 +58,7 @@ print -> 프린트 할지 묻는 팝업창 -> 퀴즈)
    
 3. Button Interaction   
 ![6](https://user-images.githubusercontent.com/48082551/120884805-4b544880-c620-11eb-8f91-c8323c95e992.png)
+
 앞서 설명한 scene interaction과 관련해서 button과 scene의 관계를 그림으로 나타냈습니다.
 
 
